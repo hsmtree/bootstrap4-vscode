@@ -24,6 +24,10 @@
   "contributes": {
     "snippets": [
       {
+        "language": "asp",
+        "path": "./snippets.json"
+      },
+      {
         "language": "blade",
         "path": "./snippets.json"
       },
